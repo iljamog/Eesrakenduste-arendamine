@@ -11,3 +11,4 @@ Funktsionaalsus:
   * Logole hiirega minnes toimub ekraanil 'glitch' efekt. 
 
 ![My image](https://github.com/iljamog/Eesrakenduste-arendamine/blob/master/Screenshot.jpg)
+![My image](https://github.com/iljamog/Eesrakenduste-arendamine/blob/master/Screenshot2.jpg)
