@@ -6,7 +6,7 @@ let weekday = d.getDay();
 let date = d.getDate();
 
 let days = ['Pühapäev','Esmaspäev','Teisipäev','Kolmapäev','Neljapäev','Reede','Laupäeva'];
-let months = ['Jaanuar','Veebruar'];
+let months = ['Jaanuar','Veebruar','Märts', 'Aprill', 'Mai', 'Juuni', 'Juuli', 'August', 'September', 'Oktoober', 'November', 'Detsember'];
 
 let weekdayContainer = document.querySelector('#weekday');
 let time = document.querySelector('#time');
